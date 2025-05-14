@@ -91,9 +91,7 @@ style: margin-left: 40px;
 .CardRow {
   display: flex;
   justify-content: space-between;
-}
-.CardRow input {
-  width: 32;
+  width:320px;
 }
 .CardIcons {
   display: flex;
