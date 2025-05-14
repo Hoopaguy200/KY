@@ -21,11 +21,11 @@ p4 {
       font-style:italic;
 }
 p5 {
-      position:fixed;left:120px;top:400px;
+      position:fixed;left:120px;top:440px;
       font-style:italic;
 }
 p6 {
-      position:fixed;left:300px;top:435px;
+      position:fixed;left:300px;top:475px;
       font-style:italic;
 }
 nav {
@@ -89,6 +89,6 @@ button:hover {
   width: 120px;
 }
 .star3 {
-  position:fixed;left:170px;top:430px;
+  position:fixed;left:170px;top:469px;
   width: 120px;
 }
